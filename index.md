@@ -1,37 +1,36 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/netlinkbuilder/bianchenyang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/netlinkbuilder/bianchenyang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>卞辰阳的简历</title>
+</head>
+<body><p>卞辰阳的简历</p>
+<h6 id='🧑基本信息'>🧑<strong>基本信息</strong></h6>
+<hr />
+<p>💖已婚</p>
+<p>☎<u>15051246257</u></p>
+<p>✉<a href='mailto:392729038@qq.com' target='_blank' class='url'>392729038@qq.com</a></p>
+<p>📟wechat:<u>Galaxy-IT</u></p>
+<p>🌏网站：<a href='https://qoorange.com' target='_blank' class='url'>https://qoorange.com</a></p>
+<hr />
+<h6 id='📚教育'>📚<strong>教育</strong></h6>
+<p>🏫南京工程高等职业学校|计算机应用技术(网络技术)|大专|2011/9-2016/6</p>
+<p>🏫郑州大学|计算机科学与技术|本科|2018/3-至今</p>
+<hr />
+<h6 id='💻工作经历'>💻<strong>工作经历</strong></h6>
+<p>🏙江苏汇通金融数据股份有限公司|IT运维|2017/5/3-2019/1/1</p>
+<p>🏭四方科技集团股份有限公司|IT运维|2019/1/1-2021/1/1</p>
+<p>🏙江苏晟晖信息科技有限公司|网络工程师|2021/1/1-2022/6/30</p>
+<p>🏭通富微电子股份有限公司|IT运维|2022/7/5-</p>
+<hr />
+<h6 id='💻擅长的it技术'>💻<strong>擅长的IT技术</strong></h6>
+<p>除了编程，其他的IT技术（网络、windows\linux服务器、数据库）工作中只要能用上基本都都搞得定。</p>
+<p>不会编程，但可以复制粘贴现成的代码，估计低代码适合我。</p>
+<hr />
+<h6 id='🥊人生目标'>🥊<strong>人生目标</strong></h6>
+<p>只想老了退休在闹市区开家电脑店，管理管理自己的小破站</p>
+<hr />
+<h6 id='🕹兴趣'>🕹兴趣</h6>
+<p>动漫、电脑游戏（即使战略游戏）、军迷、时政迷</p>
+</body>
+</html>
