@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>卞辰阳的简历</title>
 </head>
 <body><p>卞辰阳的简历</p>
 <h6 id='🧑基本信息'>🧑<strong>基本信息</strong></h6>
